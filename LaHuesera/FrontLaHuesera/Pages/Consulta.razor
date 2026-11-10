@@ -1,0 +1,57 @@
+﻿@page "/Consulta"
+@inject IRepositorio Repositorio
+
+<h3>Pelicula Cosultas</h3>
+
+
+@if (Lista != null)
+{
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Nombre</th>
+                <th>Descripcion</th>
+                <th>Duracion</th>
+                <th>Codigo</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var pelicula in Lista!)
+            {
+                <tr>
+
+                    <td>@pelicula.Id</td>
+                    <td>@pelicula.Nombre</td>
+                    <td>@pelicula.Descripcion</td>
+                    <td>@pelicula.Duracion</td>
+                    <td>@pelicula.Codigo</td>
+                    <td> Accion</td>
+
+
+                </tr>
+            }
+        </tbody>
+    </table>
+
+}
+else
+{
+    <p>Iniciando carga de tipos de peliculas...</p>
+    @* <div class="align-items-center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Loading_icon.gif?20151024034921" />
+</div> *@
+}
+
+@code {
+    public List<Pelicula>? Lista { get; set; }
+
+    protected async override Task OnInitializedAsync()
+    {
+        Lista = await Repositorio.GetAsync<List<Pelicula>>("api/Peliculas");
+
+    }
+}
+

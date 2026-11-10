@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BackLaHuesera/BackLaHuesera.csproj" />
+  <Project Path="FrontLaHuesera/FrontLaHuesera.csproj" />
+  <Project Path="ModeloLaHuesera/ModeloLaHuesera.csproj" />
+</Solution>

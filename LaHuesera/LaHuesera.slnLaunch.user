@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "BackLaHuesera\\BackLaHuesera.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "FrontLaHuesera\\FrontLaHuesera.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
