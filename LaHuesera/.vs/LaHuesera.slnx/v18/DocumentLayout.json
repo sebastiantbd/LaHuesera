@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\frontlahuesera\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|solutionrelative:frontlahuesera\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\frontlahuesera\\pages\\consulta.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|solutionrelative:frontlahuesera\\pages\\consulta.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\backlahuesera\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|solutionrelative:backlahuesera\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\frontlahuesera\\pages\\peliculasindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|solutionrelative:frontlahuesera\\pages\\peliculasindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212E5A52-2CF5-0A35-1B65-0AD423801AFE}|ModeloLaHuesera\\ModeloLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\modelolahuesera\\entidades\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212E5A52-2CF5-0A35-1B65-0AD423801AFE}|ModeloLaHuesera\\ModeloLaHuesera.csproj|solutionrelative:modelolahuesera\\entidades\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\frontlahuesera\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|solutionrelative:frontlahuesera\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\frontlahuesera\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|solutionrelative:frontlahuesera\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\backlahuesera\\backlahuesera.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|solutionrelative:backlahuesera\\backlahuesera.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\frontlahuesera\\frontlahuesera.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|solutionrelative:frontlahuesera\\frontlahuesera.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\frontlahuesera\\servicios\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|solutionrelative:frontlahuesera\\servicios\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\frontlahuesera\\servicios\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|solutionrelative:frontlahuesera\\servicios\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\backlahuesera\\controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|solutionrelative:backlahuesera\\controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\backlahuesera\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|solutionrelative:backlahuesera\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\backlahuesera\\migrations\\20261108164831_mlahuesera1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|solutionrelative:backlahuesera\\migrations\\20261108164831_mlahuesera1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\backlahuesera\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|solutionrelative:backlahuesera\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\backlahuesera\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|solutionrelative:backlahuesera\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212E5A52-2CF5-0A35-1B65-0AD423801AFE}|ModeloLaHuesera\\ModeloLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\modelolahuesera\\modelolahuesera.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{212E5A52-2CF5-0A35-1B65-0AD423801AFE}|ModeloLaHuesera\\ModeloLaHuesera.csproj|solutionrelative:modelolahuesera\\modelolahuesera.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BackLaHuesera\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BackLaHuesera\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-09T19:04:47.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PeliculasIndex.razor",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Pages\\PeliculasIndex.razor",
+              "RelativeDocumentMoniker": "FrontLaHuesera\\Pages\\PeliculasIndex.razor",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Pages\\PeliculasIndex.razor",
+              "RelativeToolTip": "FrontLaHuesera\\Pages\\PeliculasIndex.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-08T19:19:35.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Consulta.razor",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Pages\\Consulta.razor",
+              "RelativeDocumentMoniker": "FrontLaHuesera\\Pages\\Consulta.razor",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Pages\\Consulta.razor",
+              "RelativeToolTip": "FrontLaHuesera\\Pages\\Consulta.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-08T19:02:52.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Program.cs",
+              "RelativeDocumentMoniker": "FrontLaHuesera\\Program.cs",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Program.cs",
+              "RelativeToolTip": "FrontLaHuesera\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T18:56:26.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pelicula.cs",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\ModeloLaHuesera\\Entidades\\Pelicula.cs",
+              "RelativeDocumentMoniker": "ModeloLaHuesera\\Entidades\\Pelicula.cs",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\ModeloLaHuesera\\Entidades\\Pelicula.cs",
+              "RelativeToolTip": "ModeloLaHuesera\\Entidades\\Pelicula.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T18:06:50.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\_Imports.razor",
+              "RelativeDocumentMoniker": "FrontLaHuesera\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\_Imports.razor",
+              "RelativeToolTip": "FrontLaHuesera\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-08T18:59:08.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "FrontLaHuesera\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "FrontLaHuesera\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-08T20:26:30.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BackLaHuesera.csproj",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\BackLaHuesera.csproj",
+              "RelativeDocumentMoniker": "BackLaHuesera\\BackLaHuesera.csproj",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\BackLaHuesera.csproj",
+              "RelativeToolTip": "BackLaHuesera\\BackLaHuesera.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-07T18:34:03.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrontLaHuesera.csproj",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\FrontLaHuesera.csproj",
+              "RelativeDocumentMoniker": "FrontLaHuesera\\FrontLaHuesera.csproj",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\FrontLaHuesera.csproj",
+              "RelativeToolTip": "FrontLaHuesera\\FrontLaHuesera.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-08T18:41:51.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Repositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Servicios\\Repositorio.cs",
+              "RelativeDocumentMoniker": "FrontLaHuesera\\Servicios\\Repositorio.cs",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Servicios\\Repositorio.cs",
+              "RelativeToolTip": "FrontLaHuesera\\Servicios\\Repositorio.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvzkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T18:52:13.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Servicios\\IRepositorio.cs",
+              "RelativeDocumentMoniker": "FrontLaHuesera\\Servicios\\IRepositorio.cs",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Servicios\\IRepositorio.cs",
+              "RelativeToolTip": "FrontLaHuesera\\Servicios\\IRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T18:49:59.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PeliculasController.cs",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\Controllers\\PeliculasController.cs",
+              "RelativeDocumentMoniker": "BackLaHuesera\\Controllers\\PeliculasController.cs",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\Controllers\\PeliculasController.cs",
+              "RelativeToolTip": "BackLaHuesera\\Controllers\\PeliculasController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T18:11:43.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\Program.cs",
+              "RelativeDocumentMoniker": "BackLaHuesera\\Program.cs",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\Program.cs",
+              "RelativeToolTip": "BackLaHuesera\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T16:36:29.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20261108164831_MLaHuesera1.cs",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\Migrations\\20261108164831_MLaHuesera1.cs",
+              "RelativeDocumentMoniker": "BackLaHuesera\\Migrations\\20261108164831_MLaHuesera1.cs",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\Migrations\\20261108164831_MLaHuesera1.cs",
+              "RelativeToolTip": "BackLaHuesera\\Migrations\\20261108164831_MLaHuesera1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T16:48:31.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\appsettings.json",
+              "RelativeDocumentMoniker": "BackLaHuesera\\appsettings.json",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\appsettings.json",
+              "RelativeToolTip": "BackLaHuesera\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-07T19:19:29.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "BackLaHuesera\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\Data\\DataContext.cs",
+              "RelativeToolTip": "BackLaHuesera\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T18:52:38.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ModeloLaHuesera.csproj",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\ModeloLaHuesera\\ModeloLaHuesera.csproj",
+              "RelativeDocumentMoniker": "ModeloLaHuesera\\ModeloLaHuesera.csproj",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\ModeloLaHuesera\\ModeloLaHuesera.csproj",
+              "RelativeToolTip": "ModeloLaHuesera\\ModeloLaHuesera.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-07T18:04:43.848Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
