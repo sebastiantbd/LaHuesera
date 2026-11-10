@@ -2078,11 +2078,6 @@ C:\Users\Soporte\Desktop\LaHuesera\LaHuesera\FrontLaHuesera\obj\Debug\net8.0\com
 C:\Users\Soporte\Desktop\LaHuesera\LaHuesera\FrontLaHuesera\obj\Debug\net8.0\compressed\1ibxltnjxw-{0}-tptq2av103-tptq2av103.gz
 C:\Users\Soporte\Desktop\LaHuesera\LaHuesera\FrontLaHuesera\obj\Debug\net8.0\compressed\zqvbwffk8i-{0}-lfu7j35m59-lfu7j35m59.gz
 C:\Users\Soporte\Desktop\LaHuesera\LaHuesera\FrontLaHuesera\obj\Debug\net8.0\compressed\6pk2lxrzu4-{0}-oyz0vx2fzb-oyz0vx2fzb.gz
-C:\Users\Soporte\Desktop\LaHuesera\LaHuesera\FrontLaHuesera\obj\Debug\net8.0\compressed\2706kue8tc-{0}-fpryp9k5jm-fpryp9k5jm.gz
-C:\Users\Soporte\Desktop\LaHuesera\LaHuesera\FrontLaHuesera\obj\Debug\net8.0\compressed\q4qpl5g0js-{0}-0rmzr0xr5i-0rmzr0xr5i.gz
-C:\Users\Soporte\Desktop\LaHuesera\LaHuesera\FrontLaHuesera\obj\Debug\net8.0\compressed\uo8c7h8zcs-{0}-nt3etcxi5c-nt3etcxi5c.gz
-C:\Users\Soporte\Desktop\LaHuesera\LaHuesera\FrontLaHuesera\obj\Debug\net8.0\compressed\7q2nqtsx8s-{0}-3wzkx3tno8-3wzkx3tno8.gz
-C:\Users\Soporte\Desktop\LaHuesera\LaHuesera\FrontLaHuesera\obj\Debug\net8.0\compressed\iuvzmf4zp8-{0}-7do0n9q8e5-7do0n9q8e5.gz
 C:\Users\Soporte\Desktop\LaHuesera\LaHuesera\FrontLaHuesera\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Soporte\Desktop\LaHuesera\LaHuesera\FrontLaHuesera\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\Soporte\Desktop\LaHuesera\LaHuesera\FrontLaHuesera\obj\Debug\net8.0\staticwebassets.development.json
@@ -2094,3 +2089,9 @@ C:\Users\Soporte\Desktop\LaHuesera\LaHuesera\FrontLaHuesera\obj\Debug\net8.0\Fro
 C:\Users\Soporte\Desktop\LaHuesera\LaHuesera\FrontLaHuesera\obj\Debug\net8.0\refint\FrontLaHuesera.dll
 C:\Users\Soporte\Desktop\LaHuesera\LaHuesera\FrontLaHuesera\obj\Debug\net8.0\FrontLaHuesera.pdb
 C:\Users\Soporte\Desktop\LaHuesera\LaHuesera\FrontLaHuesera\obj\Debug\net8.0\ref\FrontLaHuesera.dll
+C:\Users\Soporte\Desktop\LaHuesera\LaHuesera\FrontLaHuesera\obj\Debug\net8.0\FrontLaHuesera.sourcelink.json
+C:\Users\Soporte\Desktop\LaHuesera\LaHuesera\FrontLaHuesera\obj\Debug\net8.0\compressed\2706kue8tc-{0}-idtdv8q6is-idtdv8q6is.gz
+C:\Users\Soporte\Desktop\LaHuesera\LaHuesera\FrontLaHuesera\obj\Debug\net8.0\compressed\q4qpl5g0js-{0}-jz3iwcems3-jz3iwcems3.gz
+C:\Users\Soporte\Desktop\LaHuesera\LaHuesera\FrontLaHuesera\obj\Debug\net8.0\compressed\uo8c7h8zcs-{0}-wzkksn55z2-wzkksn55z2.gz
+C:\Users\Soporte\Desktop\LaHuesera\LaHuesera\FrontLaHuesera\obj\Debug\net8.0\compressed\7q2nqtsx8s-{0}-yjo2ayhkwh-yjo2ayhkwh.gz
+C:\Users\Soporte\Desktop\LaHuesera\LaHuesera\FrontLaHuesera\obj\Debug\net8.0\compressed\iuvzmf4zp8-{0}-zcpr1gtyf4-zcpr1gtyf4.gz

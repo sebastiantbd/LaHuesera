@@ -1,0 +1,10 @@
+C:\Users\Soporte\Desktop\LaHuesera\EscritorioLaHuesera\EscritorioLaHuesera\bin\Debug\EscritorioLaHuesera.exe.config
+C:\Users\Soporte\Desktop\LaHuesera\EscritorioLaHuesera\EscritorioLaHuesera\bin\Debug\EscritorioLaHuesera.exe
+C:\Users\Soporte\Desktop\LaHuesera\EscritorioLaHuesera\EscritorioLaHuesera\bin\Debug\EscritorioLaHuesera.pdb
+C:\Users\Soporte\Desktop\LaHuesera\EscritorioLaHuesera\EscritorioLaHuesera\obj\Debug\EscritorioLaHuesera.csproj.AssemblyReference.cache
+C:\Users\Soporte\Desktop\LaHuesera\EscritorioLaHuesera\EscritorioLaHuesera\obj\Debug\EscritorioLaHuesera.MunuLaHuesera.resources
+C:\Users\Soporte\Desktop\LaHuesera\EscritorioLaHuesera\EscritorioLaHuesera\obj\Debug\EscritorioLaHuesera.Properties.Resources.resources
+C:\Users\Soporte\Desktop\LaHuesera\EscritorioLaHuesera\EscritorioLaHuesera\obj\Debug\EscritorioLaHuesera.csproj.GenerateResource.cache
+C:\Users\Soporte\Desktop\LaHuesera\EscritorioLaHuesera\EscritorioLaHuesera\obj\Debug\EscritorioLaHuesera.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Desktop\LaHuesera\EscritorioLaHuesera\EscritorioLaHuesera\obj\Debug\EscritorioLaHuesera.exe
+C:\Users\Soporte\Desktop\LaHuesera\EscritorioLaHuesera\EscritorioLaHuesera\obj\Debug\EscritorioLaHuesera.pdb

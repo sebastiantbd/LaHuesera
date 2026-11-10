@@ -282,3 +282,4 @@ C:\Users\Soporte\Desktop\LaHuesera\LaHuesera\BackLaHuesera\obj\Debug\net8.0\refi
 C:\Users\Soporte\Desktop\LaHuesera\LaHuesera\BackLaHuesera\obj\Debug\net8.0\BackLaHuesera.pdb
 C:\Users\Soporte\Desktop\LaHuesera\LaHuesera\BackLaHuesera\obj\Debug\net8.0\BackLaHuesera.genruntimeconfig.cache
 C:\Users\Soporte\Desktop\LaHuesera\LaHuesera\BackLaHuesera\obj\Debug\net8.0\ref\BackLaHuesera.dll
+C:\Users\Soporte\Desktop\LaHuesera\LaHuesera\BackLaHuesera\obj\Debug\net8.0\BackLaHuesera.sourcelink.json

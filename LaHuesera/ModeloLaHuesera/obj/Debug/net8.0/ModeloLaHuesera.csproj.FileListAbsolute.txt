@@ -22,3 +22,4 @@ C:\Users\Soporte\Desktop\LaHuesera\LaHuesera\ModeloLaHuesera\obj\Debug\net8.0\re
 C:\Users\Soporte\Desktop\LaHuesera\LaHuesera\ModeloLaHuesera\obj\Debug\net8.0\ModeloLaHuesera.pdb
 C:\Users\Soporte\Desktop\LaHuesera\LaHuesera\ModeloLaHuesera\obj\Debug\net8.0\ref\ModeloLaHuesera.dll
 C:\Users\Soporte\Desktop\LaHuesera\LaHuesera\ModeloLaHuesera\obj\Debug\net8.0\ModeloLa.C11E887D.Up2Date
+C:\Users\Soporte\Desktop\LaHuesera\LaHuesera\ModeloLaHuesera\obj\Debug\net8.0\ModeloLaHuesera.sourcelink.json
