@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "FrontLaHuesera",
   "resources": {
-    "hash": "sha256-FJ0zIcnothuLay9mh6qUbBka+qvqRghsS4UP0KNn4EI=",
+    "hash": "sha256-u3FiiD3Hx5xt4TMdIzjD5FSmrsGD4xUU5EyiH8/1Gog=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-1DK+nm58uZjvv7U2c/UlUp1zFjeBZnqXHFHBX/W1igo="
     },
@@ -209,12 +209,12 @@
       "mscorlib.wasm": "sha256-zZaaLoeJWRzrNj4UKTVB3Smk33tr8YKlf6ukHaL14FU=",
       "netstandard.wasm": "sha256-ym++JyWBEGF7Ruh4rQRxacIDvq2byH+vIlaQoAFRcEA=",
       "System.Private.CoreLib.wasm": "sha256-6WVe8YafIWsPR3L1APUT1+YSXt2WfEaRtDU8Pdi7svU=",
-      "ModeloLaHuesera.wasm": "sha256-9pQIDaijWVR3siks8wr1tZnJxcWawvkuSPDaBvvqhlg=",
-      "FrontLaHuesera.wasm": "sha256-tHARPO8kA2juUHLCyA2Ve5d9iCRBDeqjJzVIAzkfUbk="
+      "ModeloLaHuesera.wasm": "sha256-wkePsW+hGCH/gDg6L0bBY3riWjYpoqGx/jIVWHEmYnY=",
+      "FrontLaHuesera.wasm": "sha256-apPU3rgioE9Vuto/kK+SG1xaOSMFG2z4RrhrEAFhadw="
     },
     "pdb": {
-      "ModeloLaHuesera.pdb": "sha256-UeuaNlrCJICiCne26Lx4mttiomH1oMuhEmVNwiyVgEg=",
-      "FrontLaHuesera.pdb": "sha256-MvUSFFDuT3rPORMmMimnlxdsNo8UX7t1SXtlP+znPoM="
+      "ModeloLaHuesera.pdb": "sha256-VnjaOsEU/VIlJZNKWzZ85QRA8YPbuKj/Q+JXPRyFuio=",
+      "FrontLaHuesera.pdb": "sha256-LpTF8v/wogEFxb/7u9Qf3xIYFnYASETmZGePvl5sQJo="
     }
   },
   "cacheBootResources": true,

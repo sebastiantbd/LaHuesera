@@ -30,13 +30,13 @@
         {
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.gestionDePeliculasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.agregarPeliculaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.modificarPeliculaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.eliminarPeliculaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.gestionDeUsuariosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.agregarUsuarioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.editarUsuarioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.eliminarUsuarioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.administradorDePeliculasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.administradorDeUsuariosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.gestionDePrestamosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.administradorDePrestamosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.salirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.salirDelProgramaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -46,7 +46,9 @@
             this.menuStrip1.ImageScalingSize = new System.Drawing.Size(24, 24);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.gestionDePeliculasToolStripMenuItem,
-            this.gestionDeUsuariosToolStripMenuItem});
+            this.gestionDePrestamosToolStripMenuItem,
+            this.gestionDeUsuariosToolStripMenuItem,
+            this.salirToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(800, 33);
@@ -56,58 +58,58 @@
             // gestionDePeliculasToolStripMenuItem
             // 
             this.gestionDePeliculasToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.agregarPeliculaToolStripMenuItem,
-            this.modificarPeliculaToolStripMenuItem,
-            this.eliminarPeliculaToolStripMenuItem});
+            this.administradorDePeliculasToolStripMenuItem});
             this.gestionDePeliculasToolStripMenuItem.Name = "gestionDePeliculasToolStripMenuItem";
             this.gestionDePeliculasToolStripMenuItem.Size = new System.Drawing.Size(183, 29);
             this.gestionDePeliculasToolStripMenuItem.Text = "Gestion de Peliculas";
             // 
-            // agregarPeliculaToolStripMenuItem
-            // 
-            this.agregarPeliculaToolStripMenuItem.Name = "agregarPeliculaToolStripMenuItem";
-            this.agregarPeliculaToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
-            this.agregarPeliculaToolStripMenuItem.Text = "Agregar Pelicula";
-            // 
-            // modificarPeliculaToolStripMenuItem
-            // 
-            this.modificarPeliculaToolStripMenuItem.Name = "modificarPeliculaToolStripMenuItem";
-            this.modificarPeliculaToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
-            this.modificarPeliculaToolStripMenuItem.Text = "Modificar Pelicula";
-            // 
-            // eliminarPeliculaToolStripMenuItem
-            // 
-            this.eliminarPeliculaToolStripMenuItem.Name = "eliminarPeliculaToolStripMenuItem";
-            this.eliminarPeliculaToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
-            this.eliminarPeliculaToolStripMenuItem.Text = "Eliminar Pelicula";
-            // 
             // gestionDeUsuariosToolStripMenuItem
             // 
             this.gestionDeUsuariosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.agregarUsuarioToolStripMenuItem,
-            this.editarUsuarioToolStripMenuItem,
-            this.eliminarUsuarioToolStripMenuItem});
+            this.administradorDeUsuariosToolStripMenuItem});
             this.gestionDeUsuariosToolStripMenuItem.Name = "gestionDeUsuariosToolStripMenuItem";
             this.gestionDeUsuariosToolStripMenuItem.Size = new System.Drawing.Size(186, 29);
             this.gestionDeUsuariosToolStripMenuItem.Text = "Gestion de Usuarios";
             // 
-            // agregarUsuarioToolStripMenuItem
+            // administradorDePeliculasToolStripMenuItem
             // 
-            this.agregarUsuarioToolStripMenuItem.Name = "agregarUsuarioToolStripMenuItem";
-            this.agregarUsuarioToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
-            this.agregarUsuarioToolStripMenuItem.Text = "Agregar Usuario";
+            this.administradorDePeliculasToolStripMenuItem.Name = "administradorDePeliculasToolStripMenuItem";
+            this.administradorDePeliculasToolStripMenuItem.Size = new System.Drawing.Size(323, 34);
+            this.administradorDePeliculasToolStripMenuItem.Text = "Administrador de Peliculas";
             // 
-            // editarUsuarioToolStripMenuItem
+            // administradorDeUsuariosToolStripMenuItem
             // 
-            this.editarUsuarioToolStripMenuItem.Name = "editarUsuarioToolStripMenuItem";
-            this.editarUsuarioToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
-            this.editarUsuarioToolStripMenuItem.Text = "Editar Usuario";
+            this.administradorDeUsuariosToolStripMenuItem.Name = "administradorDeUsuariosToolStripMenuItem";
+            this.administradorDeUsuariosToolStripMenuItem.Size = new System.Drawing.Size(326, 34);
+            this.administradorDeUsuariosToolStripMenuItem.Text = "Administrador de Usuarios";
             // 
-            // eliminarUsuarioToolStripMenuItem
+            // gestionDePrestamosToolStripMenuItem
             // 
-            this.eliminarUsuarioToolStripMenuItem.Name = "eliminarUsuarioToolStripMenuItem";
-            this.eliminarUsuarioToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
-            this.eliminarUsuarioToolStripMenuItem.Text = "Eliminar Usuario";
+            this.gestionDePrestamosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.administradorDePrestamosToolStripMenuItem});
+            this.gestionDePrestamosToolStripMenuItem.Name = "gestionDePrestamosToolStripMenuItem";
+            this.gestionDePrestamosToolStripMenuItem.Size = new System.Drawing.Size(201, 29);
+            this.gestionDePrestamosToolStripMenuItem.Text = "Gestion de Prestamos";
+            // 
+            // administradorDePrestamosToolStripMenuItem
+            // 
+            this.administradorDePrestamosToolStripMenuItem.Name = "administradorDePrestamosToolStripMenuItem";
+            this.administradorDePrestamosToolStripMenuItem.Size = new System.Drawing.Size(341, 34);
+            this.administradorDePrestamosToolStripMenuItem.Text = "Administrador de Prestamos";
+            // 
+            // salirToolStripMenuItem
+            // 
+            this.salirToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.salirDelProgramaToolStripMenuItem});
+            this.salirToolStripMenuItem.Name = "salirToolStripMenuItem";
+            this.salirToolStripMenuItem.Size = new System.Drawing.Size(61, 29);
+            this.salirToolStripMenuItem.Text = "Salir";
+            // 
+            // salirDelProgramaToolStripMenuItem
+            // 
+            this.salirDelProgramaToolStripMenuItem.Name = "salirDelProgramaToolStripMenuItem";
+            this.salirDelProgramaToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
+            this.salirDelProgramaToolStripMenuItem.Text = "Salir  del Programa";
             // 
             // MunuLaHuesera
             // 
@@ -130,13 +132,13 @@
 
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem gestionDePeliculasToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem agregarPeliculaToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem modificarPeliculaToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem eliminarPeliculaToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem gestionDeUsuariosToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem agregarUsuarioToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem editarUsuarioToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem eliminarUsuarioToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem administradorDePeliculasToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem gestionDePrestamosToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem administradorDePrestamosToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem administradorDeUsuariosToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem salirToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem salirDelProgramaToolStripMenuItem;
     }
 }
 

@@ -35,6 +35,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29uc3VsdGEucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Soporte/Desktop/LaHuesera/LaHuesera/FrontLaHuesera/Pages/ConsultaPrestamo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29uc3VsdGFQcmVzdGFtby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Soporte/Desktop/LaHuesera/LaHuesera/FrontLaHuesera/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -45,6 +49,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Soporte/Desktop/LaHuesera/LaHuesera/FrontLaHuesera/Pages/PeliculasIndex.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVsaWN1bGFzSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Soporte/Desktop/LaHuesera/LaHuesera/FrontLaHuesera/Pages/PrestamosIndex.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlc3RhbW9zSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Soporte/Desktop/LaHuesera/LaHuesera/FrontLaHuesera/Pages/UsuariosIndex.razor]

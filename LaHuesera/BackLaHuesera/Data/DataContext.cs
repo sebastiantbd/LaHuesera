@@ -4,6 +4,7 @@ namespace BackLaHuesera.Data
 {
     public class DataContext : DbContext
     {
+        public DbSet<ModeloLaHuesera.Entidades.Prestamo> Prestamo { get; set; } = default!;
         public DbSet<ModeloLaHuesera.Entidades.Usuario> Usuario { get; set; } = default!;
         public DataContext(DbContextOptions<DataContext> options) : base(options)
         {
