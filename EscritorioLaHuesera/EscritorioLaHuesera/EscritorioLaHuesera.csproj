@@ -133,6 +133,7 @@
     <Compile Include="MunuLaHuesera.Designer.cs">
       <DependentUpon>MunuLaHuesera.cs</DependentUpon>
     </Compile>
+    <Compile Include="Pelicula.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="GestionPelicula.resx">

@@ -30,11 +30,11 @@
         {
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.gestionDePeliculasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.gestionDeUsuariosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.administradorDePeliculasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.administradorDeUsuariosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.gestionDePrestamosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.administradorDePrestamosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.gestionDeUsuariosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.administradorDeUsuariosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.salirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.salirDelProgramaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
@@ -63,25 +63,12 @@
             this.gestionDePeliculasToolStripMenuItem.Size = new System.Drawing.Size(183, 29);
             this.gestionDePeliculasToolStripMenuItem.Text = "Gestion de Peliculas";
             // 
-            // gestionDeUsuariosToolStripMenuItem
-            // 
-            this.gestionDeUsuariosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.administradorDeUsuariosToolStripMenuItem});
-            this.gestionDeUsuariosToolStripMenuItem.Name = "gestionDeUsuariosToolStripMenuItem";
-            this.gestionDeUsuariosToolStripMenuItem.Size = new System.Drawing.Size(186, 29);
-            this.gestionDeUsuariosToolStripMenuItem.Text = "Gestion de Usuarios";
-            // 
             // administradorDePeliculasToolStripMenuItem
             // 
             this.administradorDePeliculasToolStripMenuItem.Name = "administradorDePeliculasToolStripMenuItem";
             this.administradorDePeliculasToolStripMenuItem.Size = new System.Drawing.Size(323, 34);
             this.administradorDePeliculasToolStripMenuItem.Text = "Administrador de Peliculas";
-            // 
-            // administradorDeUsuariosToolStripMenuItem
-            // 
-            this.administradorDeUsuariosToolStripMenuItem.Name = "administradorDeUsuariosToolStripMenuItem";
-            this.administradorDeUsuariosToolStripMenuItem.Size = new System.Drawing.Size(326, 34);
-            this.administradorDeUsuariosToolStripMenuItem.Text = "Administrador de Usuarios";
+            this.administradorDePeliculasToolStripMenuItem.Click += new System.EventHandler(this.administradorDePeliculasToolStripMenuItem_Click);
             // 
             // gestionDePrestamosToolStripMenuItem
             // 
@@ -97,6 +84,20 @@
             this.administradorDePrestamosToolStripMenuItem.Size = new System.Drawing.Size(341, 34);
             this.administradorDePrestamosToolStripMenuItem.Text = "Administrador de Prestamos";
             // 
+            // gestionDeUsuariosToolStripMenuItem
+            // 
+            this.gestionDeUsuariosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.administradorDeUsuariosToolStripMenuItem});
+            this.gestionDeUsuariosToolStripMenuItem.Name = "gestionDeUsuariosToolStripMenuItem";
+            this.gestionDeUsuariosToolStripMenuItem.Size = new System.Drawing.Size(186, 29);
+            this.gestionDeUsuariosToolStripMenuItem.Text = "Gestion de Usuarios";
+            // 
+            // administradorDeUsuariosToolStripMenuItem
+            // 
+            this.administradorDeUsuariosToolStripMenuItem.Name = "administradorDeUsuariosToolStripMenuItem";
+            this.administradorDeUsuariosToolStripMenuItem.Size = new System.Drawing.Size(326, 34);
+            this.administradorDeUsuariosToolStripMenuItem.Text = "Administrador de Usuarios";
+            // 
             // salirToolStripMenuItem
             // 
             this.salirToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -108,7 +109,7 @@
             // salirDelProgramaToolStripMenuItem
             // 
             this.salirDelProgramaToolStripMenuItem.Name = "salirDelProgramaToolStripMenuItem";
-            this.salirDelProgramaToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
+            this.salirDelProgramaToolStripMenuItem.Size = new System.Drawing.Size(264, 34);
             this.salirDelProgramaToolStripMenuItem.Text = "Salir  del Programa";
             // 
             // MunuLaHuesera

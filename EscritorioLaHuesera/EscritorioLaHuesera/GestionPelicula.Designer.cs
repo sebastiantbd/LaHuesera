@@ -44,6 +44,7 @@
             this.txSalida = new System.Windows.Forms.TextBox();
             this.lblSalida = new System.Windows.Forms.Label();
             this.btnConsultar = new System.Windows.Forms.Button();
+            this.btnGuardarCambios = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -142,6 +143,7 @@
             this.btEditarPelicula.TabIndex = 2;
             this.btEditarPelicula.Text = "Editar Pelicula";
             this.btEditarPelicula.UseVisualStyleBackColor = true;
+            this.btEditarPelicula.Click += new System.EventHandler(this.btEditarPelicula_Click);
             // 
             // btEliminar
             // 
@@ -190,11 +192,22 @@
             this.btnConsultar.UseVisualStyleBackColor = true;
             this.btnConsultar.Click += new System.EventHandler(this.btnConsultar_Click);
             // 
+            // btnGuardarCambios
+            // 
+            this.btnGuardarCambios.Location = new System.Drawing.Point(940, 144);
+            this.btnGuardarCambios.Name = "btnGuardarCambios";
+            this.btnGuardarCambios.Size = new System.Drawing.Size(110, 53);
+            this.btnGuardarCambios.TabIndex = 4;
+            this.btnGuardarCambios.Text = "Guardar Cambios";
+            this.btnGuardarCambios.UseVisualStyleBackColor = true;
+            this.btnGuardarCambios.Click += new System.EventHandler(this.btnGuardarCambios_Click);
+            // 
             // GestionPelicula
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1016, 837);
+            this.ClientSize = new System.Drawing.Size(1074, 837);
+            this.Controls.Add(this.btnGuardarCambios);
             this.Controls.Add(this.txSalida);
             this.Controls.Add(this.btnConsultar);
             this.Controls.Add(this.btSalir);
@@ -236,5 +249,6 @@
         private System.Windows.Forms.TextBox txSalida;
         private System.Windows.Forms.Label lblSalida;
         private System.Windows.Forms.Button btnConsultar;
+        private System.Windows.Forms.Button btnGuardarCambios;
     }
 }

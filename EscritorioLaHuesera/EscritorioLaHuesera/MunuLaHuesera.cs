@@ -16,5 +16,12 @@ namespace EscritorioLaHuesera
         {
             InitializeComponent();
         }
+
+        private void administradorDePeliculasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            GestionPelicula objGestionPelicula = new GestionPelicula();
+            objGestionPelicula.MdiParent = this;
+            objGestionPelicula.Show();
+        }
     }
 }
