@@ -37,6 +37,7 @@
             this.administradorDeUsuariosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.salirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.salirDelProgramaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.cerrarSesionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -83,6 +84,7 @@
             this.administradorDePrestamosToolStripMenuItem.Name = "administradorDePrestamosToolStripMenuItem";
             this.administradorDePrestamosToolStripMenuItem.Size = new System.Drawing.Size(341, 34);
             this.administradorDePrestamosToolStripMenuItem.Text = "Administrador de Prestamos";
+            this.administradorDePrestamosToolStripMenuItem.Click += new System.EventHandler(this.administradorDePrestamosToolStripMenuItem_Click);
             // 
             // gestionDeUsuariosToolStripMenuItem
             // 
@@ -102,6 +104,7 @@
             // salirToolStripMenuItem
             // 
             this.salirToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.cerrarSesionToolStripMenuItem,
             this.salirDelProgramaToolStripMenuItem});
             this.salirToolStripMenuItem.Name = "salirToolStripMenuItem";
             this.salirToolStripMenuItem.Size = new System.Drawing.Size(61, 29);
@@ -110,8 +113,16 @@
             // salirDelProgramaToolStripMenuItem
             // 
             this.salirDelProgramaToolStripMenuItem.Name = "salirDelProgramaToolStripMenuItem";
-            this.salirDelProgramaToolStripMenuItem.Size = new System.Drawing.Size(264, 34);
-            this.salirDelProgramaToolStripMenuItem.Text = "Salir  del Programa";
+            this.salirDelProgramaToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
+            this.salirDelProgramaToolStripMenuItem.Text = "Salir del Programa";
+            this.salirDelProgramaToolStripMenuItem.Click += new System.EventHandler(this.salirDelProgramaToolStripMenuItem_Click);
+            // 
+            // cerrarSesionToolStripMenuItem
+            // 
+            this.cerrarSesionToolStripMenuItem.Name = "cerrarSesionToolStripMenuItem";
+            this.cerrarSesionToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
+            this.cerrarSesionToolStripMenuItem.Text = "Cerrar Sesion";
+            this.cerrarSesionToolStripMenuItem.Click += new System.EventHandler(this.cerrarSesionToolStripMenuItem_Click);
             // 
             // MunuLaHuesera
             // 
@@ -141,6 +152,7 @@
         private System.Windows.Forms.ToolStripMenuItem administradorDeUsuariosToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem salirToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem salirDelProgramaToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem cerrarSesionToolStripMenuItem;
     }
 }
 

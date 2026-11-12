@@ -127,11 +127,27 @@
     <Compile Include="GestionPelicula.Designer.cs">
       <DependentUpon>GestionPelicula.cs</DependentUpon>
     </Compile>
+    <Compile Include="GestionPrestamo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionPrestamo.Designer.cs">
+      <DependentUpon>GestionPrestamo.cs</DependentUpon>
+    </Compile>
     <Compile Include="GestionUsuario.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="GestionUsuario.Designer.cs">
       <DependentUpon>GestionUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LaHueseraDataSetPelis.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LaHueseraDataSetPelis.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LaHueseraDataSetUsu.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LaHueseraDataSetUsu.xsd</DependentUpon>
     </Compile>
     <Compile Include="Login.cs">
       <SubType>Form</SubType>
@@ -151,6 +167,9 @@
     <EmbeddedResource Include="GestionPelicula.resx">
       <DependentUpon>GestionPelicula.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="GestionPrestamo.resx">
+      <DependentUpon>GestionPrestamo.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="GestionUsuario.resx">
       <DependentUpon>GestionUsuario.cs</DependentUpon>
     </EmbeddedResource>
@@ -169,6 +188,28 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="LaHueseraDataSetPelis.xsc">
+      <DependentUpon>LaHueseraDataSetPelis.xsd</DependentUpon>
+    </None>
+    <None Include="LaHueseraDataSetPelis.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LaHueseraDataSetPelis.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LaHueseraDataSetPelis.xss">
+      <DependentUpon>LaHueseraDataSetPelis.xsd</DependentUpon>
+    </None>
+    <None Include="LaHueseraDataSetUsu.xsc">
+      <DependentUpon>LaHueseraDataSetUsu.xsd</DependentUpon>
+    </None>
+    <None Include="LaHueseraDataSetUsu.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LaHueseraDataSetUsu.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LaHueseraDataSetUsu.xss">
+      <DependentUpon>LaHueseraDataSetUsu.xsd</DependentUpon>
+    </None>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

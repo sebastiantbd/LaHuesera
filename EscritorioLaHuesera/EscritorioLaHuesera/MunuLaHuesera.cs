@@ -43,5 +43,23 @@ namespace EscritorioLaHuesera
             objGestionUsuario.MdiParent = this;
             objGestionUsuario.Show();
         }
+
+        private void administradorDePrestamosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            GestionPrestamo objGestionPrestamo = new GestionPrestamo();
+            objGestionPrestamo.MdiParent = this;
+            objGestionPrestamo.Show();
+        }
+
+        private void cerrarSesionToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            objLogin.Show();
+            this.Close();
+        }
+
+        private void salirDelProgramaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
