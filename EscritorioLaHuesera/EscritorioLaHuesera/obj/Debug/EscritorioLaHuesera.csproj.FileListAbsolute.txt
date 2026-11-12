@@ -32,3 +32,5 @@ C:\Users\Soporte\Desktop\LaHuesera\EscritorioLaHuesera\EscritorioLaHuesera\bin\D
 C:\Users\Soporte\Desktop\LaHuesera\EscritorioLaHuesera\EscritorioLaHuesera\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\Soporte\Desktop\LaHuesera\EscritorioLaHuesera\EscritorioLaHuesera\obj\Debug\EscritorioLaHuesera.GestionPelicula.resources
 C:\Users\Soporte\Desktop\LaHuesera\EscritorioLaHuesera\EscritorioLaHuesera\obj\Debug\Escritor.7CBD2040.Up2Date
+C:\Users\Soporte\Desktop\LaHuesera\EscritorioLaHuesera\EscritorioLaHuesera\obj\Debug\EscritorioLaHuesera.Login.resources
+C:\Users\Soporte\Desktop\LaHuesera\EscritorioLaHuesera\EscritorioLaHuesera\obj\Debug\EscritorioLaHuesera.GestionUsuario.resources

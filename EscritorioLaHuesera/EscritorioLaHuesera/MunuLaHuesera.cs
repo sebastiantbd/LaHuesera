@@ -12,9 +12,22 @@ namespace EscritorioLaHuesera
 {
     public partial class MunuLaHuesera : Form
     {
-        public MunuLaHuesera()
+        private string rol;
+        private Login objLogin;
+        public MunuLaHuesera(string rol, Login objLogin)
         {
             InitializeComponent();
+            this.rol = rol;
+            this.objLogin = objLogin;
+            if (rol == "Cliente")
+            {
+                gestionDePeliculasToolStripMenuItem.Enabled = false;
+                gestionDeUsuariosToolStripMenuItem.Enabled = false;
+            }
+            if (rol == "Taquillero")
+            {
+                gestionDePeliculasToolStripMenuItem.Enabled = false;
+            }
         }
 
         private void administradorDePeliculasToolStripMenuItem_Click(object sender, EventArgs e)
@@ -22,6 +35,13 @@ namespace EscritorioLaHuesera
             GestionPelicula objGestionPelicula = new GestionPelicula();
             objGestionPelicula.MdiParent = this;
             objGestionPelicula.Show();
+        }
+
+        private void administradorDeUsuariosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            GestionUsuario objGestionUsuario = new GestionUsuario();
+            objGestionUsuario.MdiParent = this;
+            objGestionUsuario.Show();
         }
     }
 }

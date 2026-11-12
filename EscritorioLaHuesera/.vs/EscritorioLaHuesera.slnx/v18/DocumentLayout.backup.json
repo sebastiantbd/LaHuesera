@@ -3,32 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB630187-CCCD-4827-BC0D-5BF60BB2A76E}|EscritorioLaHuesera\\EscritorioLaHuesera.csproj|C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\escritoriolahuesera\\gestionpelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EB630187-CCCD-4827-BC0D-5BF60BB2A76E}|EscritorioLaHuesera\\EscritorioLaHuesera.csproj|solutionrelative:escritoriolahuesera\\gestionpelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{EB630187-CCCD-4827-BC0D-5BF60BB2A76E}|EscritorioLaHuesera\\EscritorioLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\escritoriolahuesera\\escritoriolahuesera\\gestionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB630187-CCCD-4827-BC0D-5BF60BB2A76E}|EscritorioLaHuesera\\EscritorioLaHuesera.csproj|solutionrelative:escritoriolahuesera\\gestionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB630187-CCCD-4827-BC0D-5BF60BB2A76E}|EscritorioLaHuesera\\EscritorioLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\escritoriolahuesera\\escritoriolahuesera\\gestionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB630187-CCCD-4827-BC0D-5BF60BB2A76E}|EscritorioLaHuesera\\EscritorioLaHuesera.csproj|solutionrelative:escritoriolahuesera\\gestionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB630187-CCCD-4827-BC0D-5BF60BB2A76E}|EscritorioLaHuesera\\EscritorioLaHuesera.csproj|C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\escritoriolahuesera\\gestionpelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB630187-CCCD-4827-BC0D-5BF60BB2A76E}|EscritorioLaHuesera\\EscritorioLaHuesera.csproj|solutionrelative:escritoriolahuesera\\gestionpelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB630187-CCCD-4827-BC0D-5BF60BB2A76E}|EscritorioLaHuesera\\EscritorioLaHuesera.csproj|C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\escritoriolahuesera\\dbapi\\dbapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB630187-CCCD-4827-BC0D-5BF60BB2A76E}|EscritorioLaHuesera\\EscritorioLaHuesera.csproj|solutionrelative:escritoriolahuesera\\dbapi\\dbapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB630187-CCCD-4827-BC0D-5BF60BB2A76E}|EscritorioLaHuesera\\EscritorioLaHuesera.csproj|C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\escritoriolahuesera\\munulahuesera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB630187-CCCD-4827-BC0D-5BF60BB2A76E}|EscritorioLaHuesera\\EscritorioLaHuesera.csproj|solutionrelative:escritoriolahuesera\\munulahuesera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB630187-CCCD-4827-BC0D-5BF60BB2A76E}|EscritorioLaHuesera\\EscritorioLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\escritoriolahuesera\\escritoriolahuesera\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB630187-CCCD-4827-BC0D-5BF60BB2A76E}|EscritorioLaHuesera\\EscritorioLaHuesera.csproj|solutionrelative:escritoriolahuesera\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB630187-CCCD-4827-BC0D-5BF60BB2A76E}|EscritorioLaHuesera\\EscritorioLaHuesera.csproj|C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\escritoriolahuesera\\munulahuesera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB630187-CCCD-4827-BC0D-5BF60BB2A76E}|EscritorioLaHuesera\\EscritorioLaHuesera.csproj|solutionrelative:escritoriolahuesera\\munulahuesera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB630187-CCCD-4827-BC0D-5BF60BB2A76E}|EscritorioLaHuesera\\EscritorioLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\escritoriolahuesera\\escritoriolahuesera\\gestionpelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB630187-CCCD-4827-BC0D-5BF60BB2A76E}|EscritorioLaHuesera\\EscritorioLaHuesera.csproj|solutionrelative:escritoriolahuesera\\gestionpelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB630187-CCCD-4827-BC0D-5BF60BB2A76E}|EscritorioLaHuesera\\EscritorioLaHuesera.csproj|C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\escritoriolahuesera\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB630187-CCCD-4827-BC0D-5BF60BB2A76E}|EscritorioLaHuesera\\EscritorioLaHuesera.csproj|solutionrelative:escritoriolahuesera\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB630187-CCCD-4827-BC0D-5BF60BB2A76E}|EscritorioLaHuesera\\EscritorioLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\escritoriolahuesera\\escritoriolahuesera\\munulahuesera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB630187-CCCD-4827-BC0D-5BF60BB2A76E}|EscritorioLaHuesera\\EscritorioLaHuesera.csproj|solutionrelative:escritoriolahuesera\\munulahuesera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB630187-CCCD-4827-BC0D-5BF60BB2A76E}|EscritorioLaHuesera\\EscritorioLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\escritoriolahuesera\\escritoriolahuesera\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB630187-CCCD-4827-BC0D-5BF60BB2A76E}|EscritorioLaHuesera\\EscritorioLaHuesera.csproj|solutionrelative:escritoriolahuesera\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB630187-CCCD-4827-BC0D-5BF60BB2A76E}|EscritorioLaHuesera\\EscritorioLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\escritoriolahuesera\\escritoriolahuesera\\munulahuesera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EB630187-CCCD-4827-BC0D-5BF60BB2A76E}|EscritorioLaHuesera\\EscritorioLaHuesera.csproj|solutionrelative:escritoriolahuesera\\munulahuesera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{EB630187-CCCD-4827-BC0D-5BF60BB2A76E}|EscritorioLaHuesera\\EscritorioLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\escritoriolahuesera\\escritoriolahuesera\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB630187-CCCD-4827-BC0D-5BF60BB2A76E}|EscritorioLaHuesera\\EscritorioLaHuesera.csproj|solutionrelative:escritoriolahuesera\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB630187-CCCD-4827-BC0D-5BF60BB2A76E}|EscritorioLaHuesera\\EscritorioLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\escritoriolahuesera\\escritoriolahuesera\\modelo\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB630187-CCCD-4827-BC0D-5BF60BB2A76E}|EscritorioLaHuesera\\EscritorioLaHuesera.csproj|solutionrelative:escritoriolahuesera\\modelo\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB630187-CCCD-4827-BC0D-5BF60BB2A76E}|EscritorioLaHuesera\\EscritorioLaHuesera.csproj|C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\escritoriolahuesera\\dbapi\\dbapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB630187-CCCD-4827-BC0D-5BF60BB2A76E}|EscritorioLaHuesera\\EscritorioLaHuesera.csproj|solutionrelative:escritoriolahuesera\\dbapi\\dbapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,59 +62,70 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Pelicula.cs",
-              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\EscritorioLaHuesera\\Pelicula.cs",
-              "RelativeDocumentMoniker": "EscritorioLaHuesera\\Pelicula.cs",
-              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\EscritorioLaHuesera\\Pelicula.cs",
-              "RelativeToolTip": "EscritorioLaHuesera\\Pelicula.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "GestionUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\EscritorioLaHuesera\\GestionUsuario.cs",
+              "RelativeDocumentMoniker": "EscritorioLaHuesera\\GestionUsuario.cs",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\EscritorioLaHuesera\\GestionUsuario.cs",
+              "RelativeToolTip": "EscritorioLaHuesera\\GestionUsuario.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAAAgwN8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-12T01:28:11.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\EscritorioLaHuesera\\Program.cs",
-              "RelativeDocumentMoniker": "EscritorioLaHuesera\\Program.cs",
-              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\EscritorioLaHuesera\\Program.cs",
-              "RelativeToolTip": "EscritorioLaHuesera\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T19:15:09.562Z",
+              "WhenOpened": "2026-11-12T17:27:40.524Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DBApi.cs",
-              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\EscritorioLaHuesera\\dbApi\\DBApi.cs",
-              "RelativeDocumentMoniker": "EscritorioLaHuesera\\dbApi\\DBApi.cs",
-              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\EscritorioLaHuesera\\dbApi\\DBApi.cs",
-              "RelativeToolTip": "EscritorioLaHuesera\\dbApi\\DBApi.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAUwFIAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T19:01:27.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "GestionPelicula.cs",
               "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\EscritorioLaHuesera\\GestionPelicula.cs",
               "RelativeDocumentMoniker": "EscritorioLaHuesera\\GestionPelicula.cs",
               "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\EscritorioLaHuesera\\GestionPelicula.cs*",
               "RelativeToolTip": "EscritorioLaHuesera\\GestionPelicula.cs*",
-              "ViewState": "AgIAAJgAAAAAAAAAAAAUwJ8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAswOgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-11T18:50:03.543Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "MunuLaHuesera.cs",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\EscritorioLaHuesera\\MunuLaHuesera.cs",
+              "RelativeDocumentMoniker": "EscritorioLaHuesera\\MunuLaHuesera.cs",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\EscritorioLaHuesera\\MunuLaHuesera.cs",
+              "RelativeToolTip": "EscritorioLaHuesera\\MunuLaHuesera.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwCsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T01:07:56.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestionUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\EscritorioLaHuesera\\GestionUsuario.cs",
+              "RelativeDocumentMoniker": "EscritorioLaHuesera\\GestionUsuario.cs",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\EscritorioLaHuesera\\GestionUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EscritorioLaHuesera\\GestionUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T17:19:08.422Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MunuLaHuesera.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\EscritorioLaHuesera\\MunuLaHuesera.cs",
+              "RelativeDocumentMoniker": "EscritorioLaHuesera\\MunuLaHuesera.cs",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\EscritorioLaHuesera\\MunuLaHuesera.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EscritorioLaHuesera\\MunuLaHuesera.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T17:09:55.226Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "GestionPelicula.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\EscritorioLaHuesera\\GestionPelicula.cs",
               "RelativeDocumentMoniker": "EscritorioLaHuesera\\GestionPelicula.cs",
@@ -110,28 +137,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MunuLaHuesera.cs",
-              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\EscritorioLaHuesera\\MunuLaHuesera.cs",
-              "RelativeDocumentMoniker": "EscritorioLaHuesera\\MunuLaHuesera.cs",
-              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\EscritorioLaHuesera\\MunuLaHuesera.cs",
-              "RelativeToolTip": "EscritorioLaHuesera\\MunuLaHuesera.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\EscritorioLaHuesera\\Program.cs",
+              "RelativeDocumentMoniker": "EscritorioLaHuesera\\Program.cs",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\EscritorioLaHuesera\\Program.cs",
+              "RelativeToolTip": "EscritorioLaHuesera\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-12T01:07:56.675Z",
+              "WhenOpened": "2026-11-11T19:15:09.562Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MunuLaHuesera.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\EscritorioLaHuesera\\MunuLaHuesera.cs",
-              "RelativeDocumentMoniker": "EscritorioLaHuesera\\MunuLaHuesera.cs",
-              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\EscritorioLaHuesera\\MunuLaHuesera.cs [Dise\u00F1o]",
-              "RelativeToolTip": "EscritorioLaHuesera\\MunuLaHuesera.cs [Dise\u00F1o]",
+              "DocumentIndex": 7,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\EscritorioLaHuesera\\Login.cs",
+              "RelativeDocumentMoniker": "EscritorioLaHuesera\\Login.cs",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\EscritorioLaHuesera\\Login.cs",
+              "RelativeToolTip": "EscritorioLaHuesera\\Login.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-10T17:09:55.226Z",
+              "WhenOpened": "2026-11-12T16:07:40.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\EscritorioLaHuesera\\Login.cs",
+              "RelativeDocumentMoniker": "EscritorioLaHuesera\\Login.cs",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\EscritorioLaHuesera\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EscritorioLaHuesera\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T15:07:33.998Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "db.cs",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\EscritorioLaHuesera\\Modelo\\db.cs",
+              "RelativeDocumentMoniker": "EscritorioLaHuesera\\Modelo\\db.cs",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\EscritorioLaHuesera\\Modelo\\db.cs",
+              "RelativeToolTip": "EscritorioLaHuesera\\Modelo\\db.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwD8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T16:03:36.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DBApi.cs",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\EscritorioLaHuesera\\dbApi\\DBApi.cs",
+              "RelativeDocumentMoniker": "EscritorioLaHuesera\\dbApi\\DBApi.cs",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\EscritorioLaHuesera\\EscritorioLaHuesera\\dbApi\\DBApi.cs",
+              "RelativeToolTip": "EscritorioLaHuesera\\dbApi\\DBApi.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAUwFIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T19:01:27.364Z"
             }
           ]
         },

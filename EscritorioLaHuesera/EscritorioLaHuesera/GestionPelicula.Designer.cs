@@ -41,8 +41,6 @@
             this.btEditarPelicula = new System.Windows.Forms.Button();
             this.btEliminar = new System.Windows.Forms.Button();
             this.btSalir = new System.Windows.Forms.Button();
-            this.txSalida = new System.Windows.Forms.TextBox();
-            this.lblSalida = new System.Windows.Forms.Label();
             this.btnConsultar = new System.Windows.Forms.Button();
             this.btnGuardarCambios = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -153,6 +151,7 @@
             this.btEliminar.TabIndex = 2;
             this.btEliminar.Text = "Eliminar Pelicula";
             this.btEliminar.UseVisualStyleBackColor = true;
+            this.btEliminar.Click += new System.EventHandler(this.btEliminar_Click);
             // 
             // btSalir
             // 
@@ -162,25 +161,6 @@
             this.btSalir.TabIndex = 2;
             this.btSalir.Text = "Salir";
             this.btSalir.UseVisualStyleBackColor = true;
-            // 
-            // txSalida
-            // 
-            this.txSalida.Location = new System.Drawing.Point(55, 450);
-            this.txSalida.Multiline = true;
-            this.txSalida.Name = "txSalida";
-            this.txSalida.ScrollBars = System.Windows.Forms.ScrollBars.Both;
-            this.txSalida.Size = new System.Drawing.Size(860, 310);
-            this.txSalida.TabIndex = 3;
-            // 
-            // lblSalida
-            // 
-            this.lblSalida.AutoSize = true;
-            this.lblSalida.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblSalida.Location = new System.Drawing.Point(50, 387);
-            this.lblSalida.Name = "lblSalida";
-            this.lblSalida.Size = new System.Drawing.Size(342, 29);
-            this.lblSalida.TabIndex = 0;
-            this.lblSalida.Text = "Salida de Peliculas Agregadas";
             // 
             // btnConsultar
             // 
@@ -206,9 +186,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1074, 837);
+            this.ClientSize = new System.Drawing.Size(1074, 422);
             this.Controls.Add(this.btnGuardarCambios);
-            this.Controls.Add(this.txSalida);
             this.Controls.Add(this.btnConsultar);
             this.Controls.Add(this.btSalir);
             this.Controls.Add(this.btEliminar);
@@ -218,7 +197,6 @@
             this.Controls.Add(this.txDuracion);
             this.Controls.Add(this.txDescripcion);
             this.Controls.Add(this.txNombre);
-            this.Controls.Add(this.lblSalida);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
@@ -246,8 +224,6 @@
         private System.Windows.Forms.Button btEditarPelicula;
         private System.Windows.Forms.Button btEliminar;
         private System.Windows.Forms.Button btSalir;
-        private System.Windows.Forms.TextBox txSalida;
-        private System.Windows.Forms.Label lblSalida;
         private System.Windows.Forms.Button btnConsultar;
         private System.Windows.Forms.Button btnGuardarCambios;
     }

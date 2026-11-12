@@ -127,17 +127,35 @@
     <Compile Include="GestionPelicula.Designer.cs">
       <DependentUpon>GestionPelicula.cs</DependentUpon>
     </Compile>
+    <Compile Include="GestionUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionUsuario.Designer.cs">
+      <DependentUpon>GestionUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modelo\db.cs" />
     <Compile Include="MunuLaHuesera.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="MunuLaHuesera.Designer.cs">
       <DependentUpon>MunuLaHuesera.cs</DependentUpon>
     </Compile>
-    <Compile Include="Pelicula.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="GestionPelicula.resx">
       <DependentUpon>GestionPelicula.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionUsuario.resx">
+      <DependentUpon>GestionUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MunuLaHuesera.resx">
       <DependentUpon>MunuLaHuesera.cs</DependentUpon>

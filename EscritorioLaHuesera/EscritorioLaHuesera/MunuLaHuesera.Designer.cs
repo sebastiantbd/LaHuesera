@@ -97,6 +97,7 @@
             this.administradorDeUsuariosToolStripMenuItem.Name = "administradorDeUsuariosToolStripMenuItem";
             this.administradorDeUsuariosToolStripMenuItem.Size = new System.Drawing.Size(326, 34);
             this.administradorDeUsuariosToolStripMenuItem.Text = "Administrador de Usuarios";
+            this.administradorDeUsuariosToolStripMenuItem.Click += new System.EventHandler(this.administradorDeUsuariosToolStripMenuItem_Click);
             // 
             // salirToolStripMenuItem
             // 
