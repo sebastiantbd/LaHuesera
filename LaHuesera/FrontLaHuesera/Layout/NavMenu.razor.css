@@ -81,3 +81,37 @@
         overflow-y: auto;
     }
 }
+
+
+.submenu-toggle {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 0.5rem 1rem;
+    background: transparent;
+    border: none;
+    color: #d7d7d7;
+    font-size: 1rem;
+    text-align: left;
+    white-space: nowrap;
+    cursor: pointer;
+}
+
+    .submenu-toggle:hover {
+        color: white;
+        background-color: rgba(255, 255, 255, 0.1);
+    }
+
+    .submenu-toggle .flecha {
+        margin-left: auto;
+    }
+
+    .submenu-toggle span:first-child {
+        min-width: 20px;
+    }
+
+.nav-item {
+    padding-bottom: 0.25rem;
+}
+

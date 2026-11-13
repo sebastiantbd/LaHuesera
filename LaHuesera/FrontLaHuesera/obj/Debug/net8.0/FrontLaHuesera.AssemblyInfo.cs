@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FrontLaHuesera")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+698349999a3e10cd76ef1919d49657d8d8c30193")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33a2c021edec24819dad41c8fd4c82f9f6ae0699")]
 [assembly: System.Reflection.AssemblyProductAttribute("FrontLaHuesera")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FrontLaHuesera")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

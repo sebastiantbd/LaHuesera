@@ -1,0 +1,55 @@
+﻿@page "/ConsultaUsuarios"
+@inject IRepositorio Repositorio
+
+<h3>Usuarios Consultas</h3>
+
+
+@if (Lista != null)
+{
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Nombre</th>
+                <th>Correo</th>
+                <th>Teléfono</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var usuario in Lista!)
+            {
+                <tr>
+
+                    <td>@usuario.Id</td>
+                    <td>@usuario.Nombre</td>
+                    <td>@usuario.Correo</td>
+                    <td>@usuario.Telefono</td>
+                    <td> Accion</td>
+
+
+                </tr>
+            }
+        </tbody>
+    </table>
+
+}
+else
+{
+    <p>Iniciando carga de tipos de usuarios...</p>
+    @* <div class="align-items-center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Loading_icon.gif?20151024034921" />
+</div> *@
+}
+
+@code {
+    public List<Usuario>? Lista { get; set; }
+
+    protected async override Task OnInitializedAsync()
+    {
+        Lista = await Repositorio.GetAsync<List<Usuario>>("api/usuarios");
+
+    }
+}
+

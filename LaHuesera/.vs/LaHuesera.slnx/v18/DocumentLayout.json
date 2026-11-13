@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\backlahuesera\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|solutionrelative:backlahuesera\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\frontlahuesera\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|solutionrelative:frontlahuesera\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\backlahuesera\\controllers\\prestamoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|solutionrelative:backlahuesera\\controllers\\prestamoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{212E5A52-2CF5-0A35-1B65-0AD423801AFE}|ModeloLaHuesera\\ModeloLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\modelolahuesera\\entidades\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212E5A52-2CF5-0A35-1B65-0AD423801AFE}|ModeloLaHuesera\\ModeloLaHuesera.csproj|solutionrelative:modelolahuesera\\entidades\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\frontlahuesera\\pages\\consultausuarios.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|solutionrelative:frontlahuesera\\pages\\consultausuarios.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\frontlahuesera\\pages\\prestamosindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|solutionrelative:frontlahuesera\\pages\\prestamosindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\frontlahuesera\\pages\\peliculasindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|solutionrelative:frontlahuesera\\pages\\peliculasindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\frontlahuesera\\pages\\consulta.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|solutionrelative:frontlahuesera\\pages\\consulta.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\frontlahuesera\\pages\\usuariosindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,20 +35,48 @@
       "RelativeMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|solutionrelative:backlahuesera\\controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\backlahuesera\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|solutionrelative:backlahuesera\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\frontlahuesera\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|solutionrelative:frontlahuesera\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212E5A52-2CF5-0A35-1B65-0AD423801AFE}|ModeloLaHuesera\\ModeloLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\modelolahuesera\\entidades\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212E5A52-2CF5-0A35-1B65-0AD423801AFE}|ModeloLaHuesera\\ModeloLaHuesera.csproj|solutionrelative:modelolahuesera\\entidades\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212E5A52-2CF5-0A35-1B65-0AD423801AFE}|ModeloLaHuesera\\ModeloLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\modelolahuesera\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212E5A52-2CF5-0A35-1B65-0AD423801AFE}|ModeloLaHuesera\\ModeloLaHuesera.csproj|solutionrelative:modelolahuesera\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\frontlahuesera\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|solutionrelative:frontlahuesera\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\frontlahuesera\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|solutionrelative:frontlahuesera\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\backlahuesera\\entidades\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|solutionrelative:backlahuesera\\entidades\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\backlahuesera\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|solutionrelative:backlahuesera\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\backlahuesera\\entidades\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|solutionrelative:backlahuesera\\entidades\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\frontlahuesera\\pages\\prestamosindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|solutionrelative:frontlahuesera\\pages\\prestamosindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\backlahuesera\\backlahuesera.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|solutionrelative:backlahuesera\\backlahuesera.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\backlahuesera\\entidades\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|solutionrelative:backlahuesera\\entidades\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\backlahuesera\\controllers\\prestamoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|solutionrelative:backlahuesera\\controllers\\prestamoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\backlahuesera\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|solutionrelative:backlahuesera\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\frontlahuesera\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -51,36 +91,8 @@
       "RelativeMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|solutionrelative:frontlahuesera\\servicios\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\frontlahuesera\\pages\\consultaprestamo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|solutionrelative:frontlahuesera\\pages\\consultaprestamo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\frontlahuesera\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|solutionrelative:frontlahuesera\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\frontlahuesera\\pages\\consulta.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|solutionrelative:frontlahuesera\\pages\\consulta.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\frontlahuesera\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|solutionrelative:frontlahuesera\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\backlahuesera\\backlahuesera.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|solutionrelative:backlahuesera\\backlahuesera.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{212E5A52-2CF5-0A35-1B65-0AD423801AFE}|ModeloLaHuesera\\ModeloLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\modelolahuesera\\entidades\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{212E5A52-2CF5-0A35-1B65-0AD423801AFE}|ModeloLaHuesera\\ModeloLaHuesera.csproj|solutionrelative:modelolahuesera\\entidades\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{212E5A52-2CF5-0A35-1B65-0AD423801AFE}|ModeloLaHuesera\\ModeloLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\modelolahuesera\\entidades\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{212E5A52-2CF5-0A35-1B65-0AD423801AFE}|ModeloLaHuesera\\ModeloLaHuesera.csproj|solutionrelative:modelolahuesera\\entidades\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\frontlahuesera\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A24C6C3-E57F-AE8A-9DC8-C5055B361C73}|FrontLaHuesera\\FrontLaHuesera.csproj|solutionrelative:frontlahuesera\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DF67CAA-9A73-BF05-76F3-EF68ED1F0D12}|BackLaHuesera\\BackLaHuesera.csproj|c:\\users\\soporte\\desktop\\lahuesera\\lahuesera\\backlahuesera\\migrations\\20261111145241_mlahuesera3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -94,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,7 +114,228 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "FrontLaHuesera\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "FrontLaHuesera\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAACsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T21:56:51.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsultaUsuarios.razor",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Pages\\ConsultaUsuarios.razor",
+              "RelativeDocumentMoniker": "FrontLaHuesera\\Pages\\ConsultaUsuarios.razor",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Pages\\ConsultaUsuarios.razor",
+              "RelativeToolTip": "FrontLaHuesera\\Pages\\ConsultaUsuarios.razor",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-13T00:18:13.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\ModeloLaHuesera\\Entidades\\Prestamo.cs",
+              "RelativeDocumentMoniker": "ModeloLaHuesera\\Entidades\\Prestamo.cs",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\ModeloLaHuesera\\Entidades\\Prestamo.cs",
+              "RelativeToolTip": "ModeloLaHuesera\\Entidades\\Prestamo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T13:36:48.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrestamosIndex.razor",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Pages\\PrestamosIndex.razor",
+              "RelativeDocumentMoniker": "FrontLaHuesera\\Pages\\PrestamosIndex.razor",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Pages\\PrestamosIndex.razor",
+              "RelativeToolTip": "FrontLaHuesera\\Pages\\PrestamosIndex.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-11T15:11:11.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuariosIndex.razor",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Pages\\UsuariosIndex.razor",
+              "RelativeDocumentMoniker": "FrontLaHuesera\\Pages\\UsuariosIndex.razor",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Pages\\UsuariosIndex.razor",
+              "RelativeToolTip": "FrontLaHuesera\\Pages\\UsuariosIndex.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T22:27:54.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Consulta.razor",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Pages\\Consulta.razor",
+              "RelativeDocumentMoniker": "FrontLaHuesera\\Pages\\Consulta.razor",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Pages\\Consulta.razor",
+              "RelativeToolTip": "FrontLaHuesera\\Pages\\Consulta.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-08T19:02:52.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PeliculasIndex.razor",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Pages\\PeliculasIndex.razor",
+              "RelativeDocumentMoniker": "FrontLaHuesera\\Pages\\PeliculasIndex.razor",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Pages\\PeliculasIndex.razor",
+              "RelativeToolTip": "FrontLaHuesera\\Pages\\PeliculasIndex.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T22:03:55.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PeliculasController.cs",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\Controllers\\PeliculasController.cs",
+              "RelativeDocumentMoniker": "BackLaHuesera\\Controllers\\PeliculasController.cs",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\Controllers\\PeliculasController.cs",
+              "RelativeToolTip": "BackLaHuesera\\Controllers\\PeliculasController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAqwBEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T16:20:13.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\ModeloLaHuesera\\Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "ModeloLaHuesera\\Entidades\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\ModeloLaHuesera\\Entidades\\Usuario.cs",
+              "RelativeToolTip": "ModeloLaHuesera\\Entidades\\Usuario.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T00:02:36.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Layout\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "FrontLaHuesera\\Layout\\NavMenu.razor.css",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Layout\\NavMenu.razor.css",
+              "RelativeToolTip": "FrontLaHuesera\\Layout\\NavMenu.razor.css",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAwwHEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-11-13T00:43:36.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pelicula.cs",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\ModeloLaHuesera\\Entidades\\Pelicula.cs",
+              "RelativeDocumentMoniker": "ModeloLaHuesera\\Entidades\\Pelicula.cs",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\ModeloLaHuesera\\Entidades\\Pelicula.cs",
+              "RelativeToolTip": "ModeloLaHuesera\\Entidades\\Pelicula.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T13:32:36.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "FrontLaHuesera\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Pages\\Home.razor",
+              "RelativeToolTip": "FrontLaHuesera\\Pages\\Home.razor",
+              "ViewState": "AgIAABsDAAAAAAAAAAAAwCcDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T21:51:38.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Pelicula.cs",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\Entidades\\Pelicula.cs",
+              "RelativeDocumentMoniker": "BackLaHuesera\\Entidades\\Pelicula.cs",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\Entidades\\Pelicula.cs",
+              "RelativeToolTip": "BackLaHuesera\\Entidades\\Pelicula.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T15:52:55.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "BackLaHuesera\\Entidades\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\Entidades\\Usuario.cs",
+              "RelativeToolTip": "BackLaHuesera\\Entidades\\Usuario.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T15:53:19.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "FrontLaHuesera\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Pages\\Weather.razor",
+              "RelativeToolTip": "FrontLaHuesera\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-12T23:09:01.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\Entidades\\Prestamo.cs",
+              "RelativeDocumentMoniker": "BackLaHuesera\\Entidades\\Prestamo.cs",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\Entidades\\Prestamo.cs",
+              "RelativeToolTip": "BackLaHuesera\\Entidades\\Prestamo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T15:53:41.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BackLaHuesera.csproj",
+              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\BackLaHuesera.csproj",
+              "RelativeDocumentMoniker": "BackLaHuesera\\BackLaHuesera.csproj",
+              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\BackLaHuesera.csproj",
+              "RelativeToolTip": "BackLaHuesera\\BackLaHuesera.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-11T14:40:38.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "PrestamoesController.cs",
               "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\Controllers\\PrestamoesController.cs",
               "RelativeDocumentMoniker": "BackLaHuesera\\Controllers\\PrestamoesController.cs",
@@ -110,50 +343,11 @@
               "RelativeToolTip": "BackLaHuesera\\Controllers\\PrestamoesController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAF8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T14:38:05.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-11T14:38:05.905Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PeliculasIndex.razor",
-              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Pages\\PeliculasIndex.razor",
-              "RelativeDocumentMoniker": "FrontLaHuesera\\Pages\\PeliculasIndex.razor",
-              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Pages\\PeliculasIndex.razor",
-              "RelativeToolTip": "FrontLaHuesera\\Pages\\PeliculasIndex.razor",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAAAHUAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-10T22:03:55.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PeliculasController.cs",
-              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\Controllers\\PeliculasController.cs",
-              "RelativeDocumentMoniker": "BackLaHuesera\\Controllers\\PeliculasController.cs",
-              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\Controllers\\PeliculasController.cs",
-              "RelativeToolTip": "BackLaHuesera\\Controllers\\PeliculasController.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAYwF4AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T16:20:13.314Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\Entidades\\Usuario.cs",
-              "RelativeDocumentMoniker": "BackLaHuesera\\Entidades\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\Entidades\\Usuario.cs",
-              "RelativeToolTip": "BackLaHuesera\\Entidades\\Usuario.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T15:53:19.168Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 18,
               "Title": "UsuariosController.cs",
               "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\Controllers\\UsuariosController.cs",
               "RelativeDocumentMoniker": "BackLaHuesera\\Controllers\\UsuariosController.cs",
@@ -165,43 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UsuariosIndex.razor",
-              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Pages\\UsuariosIndex.razor",
-              "RelativeDocumentMoniker": "FrontLaHuesera\\Pages\\UsuariosIndex.razor",
-              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Pages\\UsuariosIndex.razor",
-              "RelativeToolTip": "FrontLaHuesera\\Pages\\UsuariosIndex.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-10T22:27:54.182Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Prestamo.cs",
-              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\Entidades\\Prestamo.cs",
-              "RelativeDocumentMoniker": "BackLaHuesera\\Entidades\\Prestamo.cs",
-              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\Entidades\\Prestamo.cs",
-              "RelativeToolTip": "BackLaHuesera\\Entidades\\Prestamo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T15:53:41.188Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PrestamosIndex.razor",
-              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Pages\\PrestamosIndex.razor",
-              "RelativeDocumentMoniker": "FrontLaHuesera\\Pages\\PrestamosIndex.razor",
-              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Pages\\PrestamosIndex.razor",
-              "RelativeToolTip": "FrontLaHuesera\\Pages\\PrestamosIndex.razor",
-              "ViewState": "AgIAAKcAAAAAAAAAAAAowLUAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-11T15:11:11.56Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\_Imports.razor",
               "RelativeDocumentMoniker": "FrontLaHuesera\\_Imports.razor",
@@ -213,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "IRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Servicios\\IRepositorio.cs",
               "RelativeDocumentMoniker": "FrontLaHuesera\\Servicios\\IRepositorio.cs",
@@ -225,19 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Pelicula.cs",
-              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\Entidades\\Pelicula.cs",
-              "RelativeDocumentMoniker": "BackLaHuesera\\Entidades\\Pelicula.cs",
-              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\Entidades\\Pelicula.cs",
-              "RelativeToolTip": "BackLaHuesera\\Entidades\\Pelicula.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T15:52:55.215Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "Repositorio.cs",
               "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Servicios\\Repositorio.cs",
               "RelativeDocumentMoniker": "FrontLaHuesera\\Servicios\\Repositorio.cs",
@@ -249,19 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ConsultaPrestamo.razor",
-              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Pages\\ConsultaPrestamo.razor",
-              "RelativeDocumentMoniker": "FrontLaHuesera\\Pages\\ConsultaPrestamo.razor",
-              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Pages\\ConsultaPrestamo.razor",
-              "RelativeToolTip": "FrontLaHuesera\\Pages\\ConsultaPrestamo.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-11T15:10:52.192Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Program.cs",
               "RelativeDocumentMoniker": "FrontLaHuesera\\Program.cs",
@@ -273,31 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "FrontLaHuesera\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Pages\\Home.razor",
-              "RelativeToolTip": "FrontLaHuesera\\Pages\\Home.razor",
-              "ViewState": "AgIAAAUAAAAAAAAAAAD4vwcAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-10T21:51:38.931Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Consulta.razor",
-              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Pages\\Consulta.razor",
-              "RelativeDocumentMoniker": "FrontLaHuesera\\Pages\\Consulta.razor",
-              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Pages\\Consulta.razor",
-              "RelativeToolTip": "FrontLaHuesera\\Pages\\Consulta.razor",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADQAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-08T19:02:52.649Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "20261111145241_MLaHuesera3.cs",
               "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\Migrations\\20261111145241_MLaHuesera3.cs",
               "RelativeDocumentMoniker": "BackLaHuesera\\Migrations\\20261111145241_MLaHuesera3.cs",
@@ -306,54 +416,6 @@
               "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-11T14:52:41.65Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "BackLaHuesera.csproj",
-              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\BackLaHuesera.csproj",
-              "RelativeDocumentMoniker": "BackLaHuesera\\BackLaHuesera.csproj",
-              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\BackLaHuesera\\BackLaHuesera.csproj",
-              "RelativeToolTip": "BackLaHuesera\\BackLaHuesera.csproj",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-11-11T14:40:38.483Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Pelicula.cs",
-              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\ModeloLaHuesera\\Entidades\\Pelicula.cs",
-              "RelativeDocumentMoniker": "ModeloLaHuesera\\Entidades\\Pelicula.cs",
-              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\ModeloLaHuesera\\Entidades\\Pelicula.cs",
-              "RelativeToolTip": "ModeloLaHuesera\\Entidades\\Pelicula.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T13:32:36.384Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Prestamo.cs",
-              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\ModeloLaHuesera\\Entidades\\Prestamo.cs",
-              "RelativeDocumentMoniker": "ModeloLaHuesera\\Entidades\\Prestamo.cs",
-              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\ModeloLaHuesera\\Entidades\\Prestamo.cs",
-              "RelativeToolTip": "ModeloLaHuesera\\Entidades\\Prestamo.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAcwAsAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T13:36:48.258Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "FrontLaHuesera\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\Soporte\\Desktop\\LaHuesera\\LaHuesera\\FrontLaHuesera\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "FrontLaHuesera\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAABcAAAAAAAAAAAAiwCEAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-10T21:56:51.877Z"
             }
           ]
         },
